@@ -1,0 +1,33 @@
+Team,Team_preffered_name,Team_name,Team_city,Team_Conference,Team_Conference_Division,Team_logo_id,arrest_count
+MIN,Minnesota Vikings,Vikings,Minneapolis,NFC,NFC North,18,51
+DEN,Denver Broncos,Broncos,Denver,AFC,AFC West,10,51
+CIN,Cincinnati Bengals,Bengals,Cincinnati,AFC,AFC North,7,44
+JAC,Jacksonville Jaguars,Jaguars,Jacksonville,AFC,AFC South,15,41
+TB,Tampa Bay Buccaneers,Buccaneers,Tampa Bay,NFC,NFC South,30,37
+TEN,Tennessee Titans,Titans,Nashville,AFC,AFC South,31,36
+CLE,Cleveland Browns,Browns,Cleveland,AFC,AFC North,8,35
+IND,Indianapolis Colts,Colts,Indianapolis,AFC,AFC South,14,35
+KC,Kansas City Chiefs,Chiefs,Kansas City,AFC,AFC West,16,34
+MIA,Miami Dolphins,Dolphins,Miami,AFC,AFC East,17,33
+CHI,Chicago Bears,Bears,Chicago,NFC,NFC North,6,32
+SEA,Seattle Seahawks,Seahawks,Seattle,NFC,NFC West,28,29
+SF,San Francisco 49ers,49ers,San Francisco,NFC,NFC West,27,28
+BAL,Baltimore Ravens,Ravens,Baltimore,AFC,AFC North,3,28
+LAC,Los Angeles Chargers,Chargers,Los Angeles,AFC,AFC West,26,27
+ARI,Arizona Cardinals,Cardinals,Phoenix,NFC,NFC West,1,26
+NO,New Orleans Saints,Saints,New Orleans,NFC,NFC South,20,26
+GB,Green Bay Packers,Packers,Green Bay,NFC,NFC North,12,26
+PIT,Pittsburgh Steelers,Steelers,Pittsburgh,AFC,AFC North,25,26
+NYJ,New York Jets,Jets,New York,AFC,AFC East,22,24
+DAL,Dallas Cowboys,Cowboys,Dallas,NFC,NFC East,9,24
+OAK,Oakland Raiders,Raiders,Oakland,AFC,AFC West,23,23
+WAS,Washington Redskins,Redskins,Washington DC,NFC,NFC East,32,23
+BUF,Buffalo Bills,Buffalo Bills,Buffalo,AFC,AFC East,4,22
+NE,New England Patriots,Patriots,Boston,AFC,AFC East,19,22
+CAR,Carolina Panthers,Panthers,Charlotte,NFC,NFC South,5,22
+NYG,New York Giants,NY Giants,New York,NFC,NFC East,21,21
+ATL,Atlanta Falcons,Falcons,Atlanta,NFC,NFC South,2,21
+PHI,Philadelphia Eagles,Eagles,Philadelphia,NFC,NFC East,24,21
+LA,Los Angeles Rams,Rams,Los Angeles,NFC,NFC West,29,19
+DET,Detroit Lions,Lions,Detroit,NFC,NFC North,11,19
+HOU,Houston Texans,Texans,Houston,AFC,AFC South,13,16
